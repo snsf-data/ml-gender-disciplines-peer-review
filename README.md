@@ -5,6 +5,8 @@ analyses of the SNSF grant peer review reports conducted in the following resear
 
 **Gender and Discipline Shape Length, Content and Tone of Grant Peer Review Reports**
 
+available on [arXiv](https://arxiv.org/abs/2507.00103) as a preprint.
+
 ## Abstract
 
 Peer review by experts is central to the evaluation of grant proposals, but little is
